@@ -1,2 +1,2 @@
 # gameCenter
-Game centre for Tanks Kidz on Go
+Game center for Tanks Kidz on Go
